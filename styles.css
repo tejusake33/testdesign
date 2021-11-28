@@ -43,3 +43,8 @@ footer{
     background-color:lightblue;
     padding: 8px;
 }
+@media only screen and(max-width:600px) {
+    #sidenav{
+        display: none;
+    }
+}
